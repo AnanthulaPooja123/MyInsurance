@@ -1,2 +1,3 @@
 class policy{
+void fund()
 }
